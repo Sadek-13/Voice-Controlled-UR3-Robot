@@ -63,6 +63,10 @@ ros2 launch ur3robot_description gazebo.launch.py
 ![Image](https://github.com/user-attachments/assets/c645bcf9-f25d-4f9a-97f9-4b0e1c63ad2c)
 
 ## 4.Control the spawned robot using ros_control
+## →Create a new xacro file( ur3robot_gazebo.xacro)
+
+## →Connect this xacro file with ur3robot.urdf.xacro
+![Image](https://github.com/user-attachments/assets/987e5854-9b3d-4348-9784-ed6b5134eb60)
 
 
 
