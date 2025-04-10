@@ -62,6 +62,9 @@ ros2 launch ur3robot_description gazebo.launch.py
 
 ![Image](https://github.com/user-attachments/assets/c645bcf9-f25d-4f9a-97f9-4b0e1c63ad2c)
 
+# 4.Control the spawned robot using ros_control
+
+
 
 
 
