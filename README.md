@@ -45,6 +45,8 @@
 ### →Run below's command
 ros2 launch ur3robot_description display.launch.py
 
+![Image](https://github.com/user-attachments/assets/e8f7961e-b7c4-43b1-9e52-edd6684720e7)
+
 ## 3.Spawn the UR3 robot into Gazebo
 ### →Add the collision and inertial tag into the ur3robot.urdf.xacro file
 https://github.com/Sadek-13/Voice-Controlled-UR3-Robot/blob/5e7c704051985daff76a088d1e9faa0b6303e137/src/ur3robot_description/urdf/ur3robot.urdf.xacro
@@ -57,6 +59,7 @@ https://github.com/Sadek-13/Voice-Controlled-UR3-Robot/blob/f3b6bfee66e17922bbcc
 
 ### →Run below's command on Terminal
 ros2 launch ur3robot_description gazebo.launch.py 
+
 ![Image](https://github.com/user-attachments/assets/c645bcf9-f25d-4f9a-97f9-4b0e1c63ad2c)
 
 
