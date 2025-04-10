@@ -51,6 +51,13 @@ https://github.com/Sadek-13/Voice-Controlled-UR3-Robot/blob/5e7c704051985daff76a
 
 ### →create a new file into launch folder (gazebo.launch.py)
 https://github.com/Sadek-13/Voice-Controlled-UR3-Robot/blob/f3b6bfee66e17922bbcc27fb39530071b9d9fe58/src/ur3robot_description/launch/gazebo.launch.py
+
 ### →Update package.xml file
+![Image](https://github.com/user-attachments/assets/a42b358c-e7f6-4cc7-9d16-8ff808923b91)
+
+### →Run below's command on Terminal
+ros2 launch ur3robot_description gazebo.launch.py 
+![Image](https://github.com/user-attachments/assets/c645bcf9-f25d-4f9a-97f9-4b0e1c63ad2c)
+
 
 
