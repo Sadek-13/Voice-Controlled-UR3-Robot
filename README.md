@@ -75,6 +75,9 @@ Add below's code into ur3robot.urdf.xacro
 Add below's code into ur3robot.urdf.xacro
 ![Image](https://github.com/user-attachments/assets/02427cb3-8831-4a7f-bf12-5f3999d15571)
 
+### →Update package.xml file
+![Image](https://github.com/user-attachments/assets/fd60f935-4cda-4b63-bea3-3ef71a3638c9)
+
 
 
 
