@@ -73,6 +73,7 @@ Add below's code into ur3robot.urdf.xacro
 
 ### →Connect this xacro file with ur3robot.urdf.xacro
 Add below's code into ur3robot.urdf.xacro
+![Image](https://github.com/user-attachments/assets/02427cb3-8831-4a7f-bf12-5f3999d15571)
 
 
 
