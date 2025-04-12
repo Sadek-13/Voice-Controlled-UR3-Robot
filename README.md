@@ -69,6 +69,11 @@ ros2 launch ur3robot_description gazebo.launch.py
 Add below's code into ur3robot.urdf.xacro
 ![Image](https://github.com/user-attachments/assets/987e5854-9b3d-4348-9784-ed6b5134eb60)
 
+### →Create a new xacro file( ur3robot_ros2_control.xacro)
+
+### →Connect this xacro file with ur3robot.urdf.xacro
+Add below's code into ur3robot.urdf.xacro
+
 
 
 
