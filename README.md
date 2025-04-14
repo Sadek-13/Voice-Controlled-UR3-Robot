@@ -78,7 +78,7 @@ Add below's code into ur3robot.urdf.xacro
 ![Image](https://github.com/user-attachments/assets/02427cb3-8831-4a7f-bf12-5f3999d15571)
 
 ### →Update package.xml file
-![Image](https://github.com/user-attachments/assets/52fb9e5f-050b-4cac-bf04-962988ebb67d)
+![Image](https://github.com/user-attachments/assets/1f9a35e9-574f-4f7b-93be-a40f8f6b5ca1)
 
 ### →Create a package into src folder (ur3robot_controller)
 
