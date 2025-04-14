@@ -78,6 +78,16 @@ Add below's code into ur3robot.urdf.xacro
 ### →Update package.xml file
 ![Image](https://github.com/user-attachments/assets/fd60f935-4cda-4b63-bea3-3ef71a3638c9)
 
+### →Create a package into src folder (ur3robot_controller)
+
+- cd ur3robot_ws/src/
+- ros2 pkg create --build-type ament_cmake ur3robot_controller
+- cd ..
+- colcon build
+- source install/setup.bash
+
+### 
+
 
 
 
