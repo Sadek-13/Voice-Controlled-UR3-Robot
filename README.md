@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/4203dc9c-b269-4686-912e-e5f75ce07aa0)
+
 ## 1.Visualize UR3 Robot using urdf_tutorial
 ### →Firstly create a workspace
 - cd mkdir -p ur3robot_ws/src 
