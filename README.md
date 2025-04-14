@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/4203dc9c-b269-4686-912e-e5f75ce07aa0)
+![Image](https://github.com/user-attachments/assets/a588d502-85e6-4b17-9324-7c2810708557)
 
 ## 1.Visualize UR3 Robot using urdf_tutorial
 ### →Firstly create a workspace
