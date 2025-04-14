@@ -86,7 +86,8 @@ Add below's code into ur3robot.urdf.xacro
 - colcon build
 - source install/setup.bash
 
-### 
+### →Create a folder into ur3robot_controller pkg (config)
+#### →Create a file into the config folder (ur3robot_controllers.yaml)
 
 
 
